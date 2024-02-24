@@ -1,6 +1,7 @@
 import avg from "./utils/avg";
 import corelation from "./utils/corelation";
 import extrema from "./utils/extrema";
+import harmonicMean from "./utils/harmonicMean";
 import max from "./utils/max";
 import median from "./utils/median";
 import min from "./utils/min";
@@ -14,6 +15,7 @@ export {
   avg,
   corelation,
   extrema,
+  harmonicMean,
   max,
   median,
   min,
