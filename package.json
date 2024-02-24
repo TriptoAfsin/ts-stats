@@ -1,6 +1,6 @@
 {
   "name": "ts-stats",
-  "version": "1.0.3",
+  "version": "1.0.4",
   "description": "Helpful utility functions for basic statistical operations",
   "keywords": [
     "statistics",
