@@ -7,6 +7,8 @@ declare const extrema: (arr: number[]) => [
     number
 ] | string;
 
+declare const harmonicMean: (numbers: number[]) => number | null;
+
 declare const max: (arr: number[]) => number | string;
 
 declare const median: (arr: number[]) => number | string;
@@ -23,4 +25,4 @@ declare const stdDev: (arr: number[]) => number | string;
 
 declare const variance: (arr: number[]) => number | string;
 
-export { avg, corelation, extrema, max, median, min, mode, percentile, range, stdDev, variance };
+export { avg, corelation, extrema, harmonicMean, max, median, min, mode, percentile, range, stdDev, variance };

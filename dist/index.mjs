@@ -52,6 +52,25 @@ var extrema = (arr) => {
 };
 var extrema_default = extrema;
 
+// src/utils/harmonicMean.ts
+var harmonicMean = (numbers) => {
+  try {
+    if (numbers.length === 0)
+      return null;
+    let sumOfReciprocals = 0;
+    for (const number of numbers) {
+      if (number === 0)
+        return null;
+      sumOfReciprocals += 1 / number;
+    }
+    return numbers.length / sumOfReciprocals;
+  } catch (error) {
+    console.error("Error calculating harmonic mean:", error);
+    return null;
+  }
+};
+var harmonicMean_default = harmonicMean;
+
 // src/utils/max.ts
 var max = (arr) => {
   try {
@@ -199,6 +218,7 @@ export {
   avg_default as avg,
   corelation_default as corelation,
   extrema_default as extrema,
+  harmonicMean_default as harmonicMean,
   max_default as max,
   median_default as median,
   min_default as min,
