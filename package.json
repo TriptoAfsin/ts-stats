@@ -33,7 +33,7 @@
     "build": "tsup",
     "prepublish": "tsc"
   },
-  "license": "ISC",
+  "license": "GPL-3.0-only",
   "devDependencies": {
     "ts-node": "^10.9.2",
     "tsup": "^8.0.1",
