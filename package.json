@@ -1,7 +1,8 @@
 {
   "name": "ts-stats",
-  "version": "1.0.1",
+  "version": "1.0.2",
   "description": "Helpful utility functions for basic statistical operations",
+  "author": "Tripto Afsin",
   "main": "./dist/index.js",
   "module": "./dist/index.mjs",
   "types": "./dist/index.d.ts",
@@ -13,7 +14,6 @@
     "build": "tsup",
     "prepublish": "tsc"
   },
-  "author": "",
   "license": "ISC",
   "devDependencies": {
     "ts-node": "^10.9.2",
