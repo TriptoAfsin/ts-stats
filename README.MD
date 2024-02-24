@@ -2,7 +2,7 @@
 
 Helpful utility functions for basic statistical operations 😀
 
-<p align="center"><img src="./getRandom.png" width="256px" alt="Logo"></img></p>
+<p align="center"><img src="ts-stats.png" width="256px" alt="Logo"></img></p>
 
 **Made in 🇧🇩(Bangladesh) with 💖"**
 
