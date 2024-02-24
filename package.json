@@ -3,6 +3,10 @@
   "version": "1.0.2",
   "description": "Helpful utility functions for basic statistical operations",
   "author": "Tripto Afsin",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/TriptoAfsin/ts-stats"
+  },
   "main": "./dist/index.js",
   "module": "./dist/index.mjs",
   "types": "./dist/index.d.ts",
