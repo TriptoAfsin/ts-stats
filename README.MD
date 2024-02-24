@@ -59,7 +59,7 @@ console.log("Correlation:", correlation);
 import { extrema } from "ts-stats";
 
 const numbers = [1, 2, 3, 4, 5];
-const { min, max } = extrema(numbers);
+const [min, max] = extrema(numbers);
 console.log("Min:", min, "Max:", max);
 ```
 

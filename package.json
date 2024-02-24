@@ -1,6 +1,6 @@
 {
   "name": "ts-stats",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "Helpful utility functions for basic statistical operations",
   "main": "./dist/index.js",
   "module": "./dist/index.mjs",
