@@ -1,7 +1,22 @@
 {
   "name": "ts-stats",
-  "version": "1.0.2",
+  "version": "1.0.3",
   "description": "Helpful utility functions for basic statistical operations",
+  "keywords": [
+    "statistics",
+    "TypeScript",
+    "TS",
+    "stats",
+    "stat",
+    "JavaScript",
+    "mean",
+    "variance",
+    "percentile",
+    "extrema",
+    "range",
+    "harmonic mean",
+    "standard deviation"
+  ],
   "author": "Tripto Afsin",
   "repository": {
     "type": "git",
